@@ -1,7 +1,7 @@
 #OpenBIRD.info
 
-###***THIS REPO IS ONLY THE HOSTING! DO NOT TOUCH ANYTHING HERE! The workspace is at https://github.com/OpenBIRD/openbird.info 
-https://github.com/OpenBIRD/openbird.info***
+###THIS REPO IS ONLY THE HOSTING! DO NOT TOUCH ANYTHING HERE! The workspace is at [https://github.com/OpenBIRD/openbird.info](https://github.com/OpenBIRD/openbird.info)
+
 
 *BIRD* stands for *BIRD is recursive DNS*
 
